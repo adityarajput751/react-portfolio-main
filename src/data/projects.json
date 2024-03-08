@@ -1,0 +1,18 @@
+[
+  {
+    "title": "AIDA-Storytelling",
+    "imageSrc": "projects/project1.png",
+    "description": "AIDA is an innovative storytelling application that leverages advanced AI to provide a unique audiobook and story generation experience.",
+    "skills": ["React Native", "Node", "mongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "FUXION",
+    "imageSrc": "projects/project.png",
+    "description": "FUXION is a smartwatch-integrated project offering advanced health tracking, personalized fitness recommendations, convenient features like notifications, music control.",
+    "skills": ["React Native"],
+
+    "source": "https://www.github.com"
+  }
+]

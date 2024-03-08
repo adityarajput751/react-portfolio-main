@@ -1,0 +1,29 @@
+[
+  {
+    "role": "React Native Developer",
+    "organisation": "Primafelicitas",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on AIDA-Storytelling, Story telling application for kids.", "Worked on FUXION, Smart watch App"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Kiwitech",
+    "startDate": "Nov, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": ["Worked on React Native"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
