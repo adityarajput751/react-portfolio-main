@@ -16,13 +16,12 @@
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Market Research Associate",
+    "organisation": "Mordor Intelligence",
+    "startDate": "June, 2022",
+    "endDate": "Nov, 2022",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Market Research","Primary Research", "Secodeay Research", "Company Profile"
     ],
     "imageSrc": "history/netflix.png"
   }
